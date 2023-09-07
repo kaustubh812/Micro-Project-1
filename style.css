@@ -1,0 +1,236 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.box1 {
+    height: 475px;
+    width: 1520px;
+    background-color: #FFCD9E;
+    position: absolute;
+}
+
+
+
+#heading {
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    top: 30px;
+    left: 136px;
+    color: #282828;
+
+    font-weight: 700;
+    size: 36px;
+    line-height: 54px;
+
+}
+
+#paragraph {
+    width: 360px;
+    position: absolute;
+    height: 81px;
+    top: 160px;
+    left: 136px;
+
+    font-weight: 500;
+    size: 20px;
+    line-height: 32px;
+    
+}
+
+#bold {
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    top: 295px;
+    left: 136px;
+
+    font-weight: 800;
+    size: 20px;
+    line-height: 32px;
+    color: #282828;
+
+}
+
+#email_box {
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    top: 350px;
+    left: 136px;
+    border-radius: 8px;
+    border: 4px 4px 4px 4px;
+    border-color: black;
+
+}
+
+input::placeholder {
+    font-family: Arial, Helvetica, sans-serif;
+    font: bolder;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#button {
+    color: white;
+    background-color: black;
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    top: 352px;
+    left: 496px;
+    border-radius: 8px;
+}
+
+#subtitle {
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    top: 415px;
+    left: 134px;
+    font-weight: 500;
+    size: 16px;
+    line-height: 25.6px;
+    text-align: center;
+    color: white;
+}
+
+#image {
+    position: absolute;
+    width: 490px;
+    height: 490px;
+    top: 0px;
+    left: 900px;
+}
+
+.box2 {
+    position: absolute;
+    top: 483px;
+    height: 250px;
+    width: 1520px;
+    background-color: #282828;
+    color: white;
+
+
+}
+
+#t1 {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    top: 510px;
+    left: 191px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t2 {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    top: 540px;
+    left: 191px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t3 {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    top: 570px;
+    left: 191px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t4 {
+    position: absolute;
+    width: 220px;
+    height: 36px;
+    top: 600px;
+    left: 191px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t5 {
+    position: absolute;
+    width: 236px;
+    height: 36px;
+    top: 630px;
+    left: 191px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t6 {
+    position: absolute;
+    width: 148px;
+    height: 36px;
+    top: 510px;
+    left: 1170px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t7 {
+    position: absolute;
+    width: 232px;
+    height: 36px;
+    top: 540px;
+    left: 1074px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#t8 {
+    position: absolute;
+    width: 232px;
+    height: 36px;
+    top: 630px;
+    left: 1122px;
+
+    font-weight: 400;
+    size: 20px;
+    line-height: 32px;
+    color: white;
+}
+
+#linkedin {
+    position: absolute;
+    width: 29.41px;
+    height: 27.42px;
+    top: 590px;
+    left: 1180px;
+}
+
+#instagram {
+    position: absolute;
+    width: 29.41px;
+    height: 27.42px;
+    top: 590px;
+    left: 1210px;
+}
